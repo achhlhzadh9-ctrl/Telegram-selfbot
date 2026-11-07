@@ -1,0 +1,6 @@
+telethon==1.45.0
+aiohttp
+aiohttp-socks
+python-dotenv
+jdatetime
+yt-dlp

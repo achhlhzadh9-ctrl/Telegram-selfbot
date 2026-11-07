@@ -1,0 +1,7 @@
+*.session
+*.session-journal
+.env
+!.env.example
+gemini-keys.txt
+downloads/
+__pycache__/
